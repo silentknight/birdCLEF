@@ -68,7 +68,7 @@ Pygments==2.0.2
 pygobject==3.12.0
 -e git+git@github.com:lisa-lab/pylearn2.git@30437ee5621eddcfb3ee7ef2fdb12d3591367a85#egg=pylearn2
 PyMySQL==0.6.3
-pyOpenSSL==0.13
+pyOpenSSL==17.5.0
 pyparsing==2.1.1
 pyquery==1.2.9
 pyserial==2.6
