@@ -104,7 +104,7 @@ utm==0.4.0
 virtualenv==13.1.2
 wcwidth==0.1.5
 websocket-client==0.32.0
-Werkzeug==0.10.4
+Werkzeug==0.15.3
 xdiagnose===3.6.3build2
 XlsxWriter==0.7.2
 zope.interface==4.0.5
