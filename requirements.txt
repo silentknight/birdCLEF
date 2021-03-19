@@ -38,7 +38,7 @@ httplib2==0.8
 ipython==4.2.0
 ipython-genutils==0.1.0
 itsdangerous==0.24
-Jinja2==2.8
+Jinja2==2.11.3
 jmespath==0.8.0
 lockfile==0.8
 lxml==3.3.3
